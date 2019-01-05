@@ -24,6 +24,7 @@ Use this command to request the certificate. Replace "/path/to/" with the actual
 ```
 certbot --server https://acme-v02.api.letsencrypt.org/directory \
 certonly --manual --preferred-challenges=dns \
+--agree-tos --manual-public-ip-logging-ok \
 --manual-auth-hook /path/to/auth-hook \
 --manual-cleanup-hook /path/to/cleanup-hook \
 -d 'domain.com' -d '*.domain.com'
