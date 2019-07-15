@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1c527486c64546e0a1fefcabee9e879e)](https://www.codacy.com/app/tanerpaca/certbot-transip-dns-01-validator?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tanerpaca/certbot-transip-dns-01-validator&amp;utm_campaign=Badge_Grade)
+
 # certbot-transip-dns-01-validator
 Certbot DNS-01 validation for wildcard certificates (ACME-v2)
 
